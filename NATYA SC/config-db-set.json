@@ -1,0 +1,28 @@
+{
+   "ownerNumber": [
+    "6285157457662@s.whatsapp.net", 
+    "62851832672636@s.whatsapp.net",
+    "6285157457662@s.whatsapp.net"
+  ],
+  "autobio": false,
+  "notifRegister": false,
+  "onlyRegister": false,
+  "anticall": true,
+  "gconly": false,
+  "pconly": false,
+  "autorespond": false,
+  "autoblok212": true,
+  "autoread": true,
+  "autocv": true,
+  "prefix": false,
+  "antispams": false,
+  "autotyping": false,
+  "gamewaktu": 60000, 
+  "limitCount": 100,
+  "toxicCount": 5, 
+  "Antilink2Count": 5, 
+  "gcount": {
+    "prem": 500,
+    "user": 15
+  }
+}
